@@ -1,0 +1,7 @@
+{
+"Testing": ["bug reports",  "test cases", "e2e testing", "smoke testing"],
+"Repository": "git hub",
+"API": "Postman",
+"Proxy": "Charles",
+"Theory": "client server architecture"
+}
